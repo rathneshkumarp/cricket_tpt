@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  no_of_matches: MyText
+  match_no: MyText
+  start_date: MyText
+  end_date: MyText
+  toss: MyText
+  match_date: MyText
+  matches_played: MyText
+  team: one
+
+two:
+  no_of_matches: MyText
+  match_no: MyText
+  start_date: MyText
+  end_date: MyText
+  toss: MyText
+  match_date: MyText
+  matches_played: MyText
+  team: two

@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  email: MyText
+  password: MyText
+  token: MyText
+  expire_at: 2023-03-09 15:23:53
+  logged_in: false
+
+two:
+  name: MyText
+  email: MyText
+  password: MyText
+  token: MyText
+  expire_at: 2023-03-09 15:23:53
+  logged_in: false

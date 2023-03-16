@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  team_name: MyString
+  captain_name: MyString
+  jersey_color: MyString
+
+two:
+  team_name: MyString
+  captain_name: MyString
+  jersey_color: MyString
